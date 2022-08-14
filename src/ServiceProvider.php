@@ -7,7 +7,7 @@ use Barryvdh\Debugbar\Middleware\InjectDebugbar;
 use DebugBar\DataFormatter\DataFormatter;
 use DebugBar\DataFormatter\DataFormatterInterface;
 use Illuminate\Contracts\Http\Kernel;
-use Illuminate\Foundation\Application;
+use Themosis\Core\Application;
 use Illuminate\Routing\Router;
 use Illuminate\Session\SessionManager;
 use Illuminate\Support\Collection;
